@@ -1,5 +1,8 @@
 # Deep Reinforcement Learning Hands-On
 
+## Forked repository
+I (Ian Poole) have forked this from Maxim Lapan's repository.
+
 Code samples for [Deep Reinforcement Learning Hands-On](https://www.packtpub.com/big-data-and-business-intelligence/practical-deep-reinforcement-learning)
 book
 
