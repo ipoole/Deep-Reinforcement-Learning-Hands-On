@@ -1,8 +1,9 @@
 .idea
 runs
 venv
-records
-recording
+**/records/
+**/recording/
+**/mon/
 *.txt
 !requirements.txt
 *.dat
